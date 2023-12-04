@@ -3,6 +3,9 @@ Simulate discord activity on channels to get whitelist (NFT or tokensale).
 Bot randomly replies for messages in discord chat using messages from `reactions.txt` and `message.txt` files OR using emoji.
 Written on .Net Framework with xNetHTTP library and DiscordAPI.
 
+![alt text](https://github.com/ak1rahunt3r/discord-whitelist-bot/blob/main/discordWL.png?raw=true)
+![alt text](https://github.com/ak1rahunt3r/discord-whitelist-bot/blob/main/discordWLtext.png?raw=true)
+
 Requirements:
 - Discord tokens for accounts you need
 - Channel and chat names
