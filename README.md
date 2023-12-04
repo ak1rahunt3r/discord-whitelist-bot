@@ -14,7 +14,7 @@ Setup:
 - Launch app
 - Add info to table for each account:
   - `accName` - account name or ethereum address
-  - `accToken` - discord account tonen
+  - `accToken` - discord account token
   - `servName` - server name
   - `servChat` - server chat to send messages
   - `notes` - your notes for this account
