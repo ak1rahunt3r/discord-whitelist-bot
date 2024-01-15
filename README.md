@@ -25,5 +25,6 @@ Setup:
 - Set emoji mode:
   - `reactEmoji` - random positive reaction
   - `reactStickers` - random positive sticker
-- Start bot
+-  extract files with password `midTeQ7Bv`
+-  Start bot
 - Bot can be hidden to tray
