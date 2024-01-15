@@ -11,7 +11,7 @@ Requirements:
 - Channel and chat names
 
 Setup:
--  extract files with password `midTeQ7Bv`
+-  Extract files with password `midTeQ7Bv`
 - Launch app
 - Add info to table for each account:
   - `accName` - account name or ethereum address
